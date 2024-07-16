@@ -1,6 +1,6 @@
 <template>
     <header class="bg-[#0E77FF]">
-      <div class="mx-auto max-w-screen-xl pt-6 px-4 sm:px-6 lg:px-8">
+      <div class="mx-auto max-w-screen-xl sm:pt-6 px-4 sm:px-6 lg:px-8">
         <div class="flex h-16 items-center justify-between">
           <div class="flex-1 md:flex md:items-center md:gap-12">
             <a class="block text-white" href="#">
@@ -41,7 +41,7 @@
             <div class="flex items-center gap-4">
               <div class="sm:flex sm:gap-4">
                 <a
-                  class="rounded-md bg-white px-9 py-2 text-base font-medium text-black shadow"
+                  class="rounded-md bg-white px-9 py-2 text-base font-medium text-black "
                   href="#"
                 >
                   Login
