@@ -4,6 +4,7 @@
       <HeroComponent/>
       <AboutComponent/>
       <ServicesComponent/>
+      <TechnologiesComponent/>
     </div>
   </template>
   
@@ -12,6 +13,7 @@
   import HeroComponent from '../components/home_components/HeroComponent.vue';
   import AboutComponent from '../components/home_components/AboutComponent.vue';
 import ServicesComponent from '../components/home_components/ServicesComponent.vue';
+import TechnologiesComponent from '../components/home_components/TechnologiesComponent.vue';
   
   export default {
     name: 'HomePage',
@@ -19,7 +21,8 @@ import ServicesComponent from '../components/home_components/ServicesComponent.v
       Navbar,
       HeroComponent,
       AboutComponent,
-      ServicesComponent
+      ServicesComponent,
+      TechnologiesComponent
     }
   }
   </script>

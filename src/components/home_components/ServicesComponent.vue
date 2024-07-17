@@ -2,7 +2,7 @@
 
 <div class = "bg-[#FAFCFF] mt-6">
 <div class = "lg:bg-[#0E77FF] opacity-80 absolute right-0 h-full w-[20%] z-10"></div>
-  <div class=" flex lg:flex-row flex-col  items-center mx-auto h-screen max-w-screen-xl">
+  <div class=" flex lg:flex-row flex-col  items-center mx-auto sm:h-screen max-w-screen-xl">
     
     <div class="lg:w-5/12 sm:w-10/12 services text-left p-8 mx-auto">
       <div class="heading flex items-center justify-start mb-4">
@@ -22,9 +22,9 @@
         </div>
       </div>
     </div>
-    <div class="lg:w-5/12 sm:w-10/12 p-5">
+    <div class="lg:w-5/12 sm:w-10/12 p-5 ">
       <div
-        class="w-full flex-1 mt-8 p-8 order-2 bg-white shadow-xl  sm:w-96 md:w-[85%] lg:w-full lg:order-1 lg:rounded-r-none"
+        class="w-full mx-auto flex-1 mt-8 p-8 order-2 bg-white shadow-xl  sm:w-96 md:w-[85%] lg:w-full lg:order-1 lg:rounded-r-none"
       >
         <div class=" pb-4 flex items-center border-gray-300">
           <img
