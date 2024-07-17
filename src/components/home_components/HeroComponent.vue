@@ -1,5 +1,5 @@
 <template>
-  <section class="lg:bg-[url('/hero_background.svg')] bg-cover bg-center bg-[#0E77FF] font-poppins xl:h-screen py-12 dark:bg-gray-900">
+  <section class="mb-16 lg:bg-[url('/hero_background.svg')] bg-cover bg-center bg-[#0E77FF] font-poppins xl:h-screen py-12 dark:bg-gray-900">
     <div
       class="grid max-w-screen-xl  px-6 pt-10 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28"
     >
