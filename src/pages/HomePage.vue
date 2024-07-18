@@ -6,6 +6,7 @@
       <ServicesComponent/>
       <TechnologiesComponent/>
       <ContactComponent/>
+      <FooterComponent/>
     </div>
   </template>
   
@@ -16,6 +17,7 @@
 import ServicesComponent from '../components/home_components/ServicesComponent.vue';
 import TechnologiesComponent from '../components/home_components/TechnologiesComponent.vue';
 import ContactComponent from '../components/home_components/ContactComponent.vue';
+import FooterComponent from '../components/home_components/FooterComponent.vue';
   
   export default {
     name: 'HomePage',
@@ -25,7 +27,8 @@ import ContactComponent from '../components/home_components/ContactComponent.vue
       AboutComponent,
       ServicesComponent,
       TechnologiesComponent,
-      ContactComponent
+      ContactComponent,
+      FooterComponent
     }
   }
   </script>
