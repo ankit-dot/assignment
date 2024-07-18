@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vueuse/core": "^10.11.0",
+    "flag-icon-css": "^4.1.7",
     "vue": "^3.4.29"
   },
   "devDependencies": {
