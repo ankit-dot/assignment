@@ -14,7 +14,7 @@
         >
           <div class="relative py-3 sm:w-96 mx-auto text-center">
             <span class="text-2xl font-semibold">Login to Access Dashboard</span>
-            <div class="mt-4 bg-white shadow-md rounded-lg text-left">
+            <div class="mt-4 bg-white  rounded-lg text-left">
               <div class="h-2 rounded-t-md"></div>
 
               <form @submit.prevent="handleSubmit" class="px-8 py-6">

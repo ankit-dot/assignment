@@ -115,14 +115,14 @@
                     >
                       <div class="flex items-center gap-3">
                         <div class="h-10 w-10 rounded-full">
-                          <img src="/tech_icon_3.svg" alt="brand" />
+                          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvi7HpQ-_PMSMOFrj1hwjp6LDcI-jm3Ro0Xw&s" alt="brand" class = "w-full h-full rounded-full bg-contain" />
                         </div>
 
                         <div>
                           <h5
-                            class="text-sm font-bold leading-6 text-black dark:text-white"
+                            class="text-sm font-bold leading-6 text-[#0B2257] dark:text-white"
                           >
-                            Apple Inc
+                          Andrew Johnston
                           </h5>
                         </div>
                       </div>
@@ -143,14 +143,14 @@
                     >
                       <div class="flex items-center gap-3">
                         <div class="h-10 w-10 rounded-full">
-                          <img src="/tech_icon_2.svg" alt="brand" />
+                          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvi7HpQ-_PMSMOFrj1hwjp6LDcI-jm3Ro0Xw&s" alt="brand" class = "w-full h-full rounded-full bg-contain" />
                         </div>
 
                         <div>
                           <h5
-                            class="text-sm font-bold leading-6 text-black dark:text-white"
+                            class="text-sm font-bold leading-6 text-[#0B2257] dark:text-white"
                           >
-                            Google
+                          Anna Atkinsons
                           </h5>
                         </div>
                       </div>
@@ -171,14 +171,14 @@
                     >
                       <div class="flex items-center gap-3">
                         <div class="h-10 w-10 rounded-full">
-                          <img src="/tech_icon_3.svg" alt="brand" />
+                          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvi7HpQ-_PMSMOFrj1hwjp6LDcI-jm3Ro0Xw&s" alt="brand" class = "w-full h-full rounded-full bg-contain" />
                         </div>
 
                         <div>
                           <h5
-                            class="text-sm font-bold leading-6 text-black dark:text-white"
+                            class="text-sm font-bold leading-6 text-[#0B2257] dark:text-white"
                           >
-                            Tesla
+                          Mark Atkinsons
                           </h5>
                         </div>
                       </div>
@@ -199,14 +199,14 @@
                     >
                       <div class="flex items-center gap-3">
                         <div class="h-10 w-10 rounded-full">
-                          <img src="/tech_icon_4.svg" alt="brand" />
+                          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvi7HpQ-_PMSMOFrj1hwjp6LDcI-jm3Ro0Xw&s" alt="brand" class = "w-full h-full rounded-full bg-contain" />
                         </div>
 
                         <div>
                           <h5
-                            class="text-sm font-bold leading-6 text-black dark:text-white"
+                            class="text-sm font-bold leading-6 text-[#0B2257] dark:text-white"
                           >
-                            Twitter X
+                          Johanna Tairons
                           </h5>
                         </div>
                       </div>
