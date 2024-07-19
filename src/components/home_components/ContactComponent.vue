@@ -3,7 +3,7 @@
     <div
       class="flex lg:justify-between justify-center items-center max-w-screen-xl gap-10 px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-10 lg:py-16 lg:flex-row flex-col lg:pt-28"
     >
-      <div class="relative lg:w-5/12 sm:w-9/12 flex items-end h-[100%] lg:mt-0 lg:col-span-5 lg:flex">
+      <div class="relative lg:w-5/12 sm:w-9/12 flex items-end  lg:mt-0 lg:col-span-5 lg:flex">
         <img src="/contact_page_image.svg" alt="hero image" />
       </div>
       <div class="lg:w-5/12 sm:w-11/12 w-full">
@@ -12,7 +12,7 @@
         >
           <div class="flex items-center justify-center">
             <div class="mx-auto w-full bg-white">
-              <form action="https://formbold.com/s/FORM_ID" method="POST">
+              <form action="https://formsubmit.co/ankitsolanki61375@gmail.com" method="POST">
                 <div class="mb-5">
                   <input
                     type="email"

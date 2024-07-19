@@ -40,12 +40,12 @@
   
             <div class="flex items-center gap-4">
               <div class="sm:flex sm:gap-4">
-                <a
-                  class="rounded-md bg-white px-9 py-2 text-base font-medium text-black "
-                  href="#"
+                <router-link
+                  class="rounded-md bg-white px-9 py-2 text-base font-medium text-black shadow"
+                  to="/login"
                 >
                   Login
-                </a>
+                </router-link>
   
                
               </div>

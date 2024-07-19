@@ -16,13 +16,13 @@
           and cloud-architectures.
         </p>
         <div class="space-y-4 md:mt-8 items-center sm:flex sm:space-y-0 sm:space-x-4">
-          <a
-            href="#"
-            class="inline-block rounded-full  px-8 py-2.5 bg-white text-lg font-semibold leading-7 text-gray-900 dark:text-gray-100 "
-          >
-            Get Started
-            <span aria-hidden="true" class="text-black font-bold">→</span>
-          </a>
+          <router-link
+    to="/login"
+    class="inline-block rounded-full px-8 py-2.5 bg-white text-lg font-semibold leading-7 text-gray-900 dark:text-gray-100"
+  >
+    Get Started
+    <span aria-hidden="true" class="text-black font-bold">→</span>
+  </router-link>
         </div>
       </div>
     </div>
