@@ -48,8 +48,8 @@
         <li class="relative">
           <div class="relative">
             <a class="flex items-center gap-4" href="#">
-              <span class="h-12 w-12 rounded-full">
-                <img src="/tech_icon_1.svg" alt="User" />
+              <span class=" h-10 w-10">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvi7HpQ-_PMSMOFrj1hwjp6LDcI-jm3Ro0Xw&s" alt="User" class = "h-full w-full rounded-full bg-contain" />
               </span>
               <span class="hidden text-right lg:block">
                 <span
