@@ -31,8 +31,10 @@
             </p>
 
             <button
+
               class="nav-button w-[180px] flex text-[#0E77FF]  items-center justify-center rounded-full border-2 border-[#0E77FF] bg-transparent  px-7 py-2.5 text-lg   ring-[#0E77FF] ring-offset-3   active:ring-1"
             >
+             <router-link to = "/login" class = "flex items-center justify-center">
               <span class = "text-b">Get Started</span>
               <svg
                 stroke="currentColor"
@@ -49,6 +51,7 @@
                   d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"
                 ></path>
               </svg>
+            </router-link>
             </button>
           </div>
         </div>

@@ -1,12 +1,9 @@
-<script setup>
-import DashBoardPage from './pages/DashBoardPage.vue';
-import HomePage from './pages/HomePage.vue';
-</script>
-
 <template>
-  <DashBoardPage />
+  <router-view></router-view>
 </template>
 
-<style scoped>
+<script setup>
+</script>
 
+<style scoped>
 </style>
